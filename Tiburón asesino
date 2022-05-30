@@ -1,0 +1,12 @@
+usernane ='admin'
+password ='admin1'
+one=str(input('please Enter a username:'))
+two=str(input('please Enter a password:'))
+if one==username and two==password:
+ print("fhello{one}")
+else:
+ print("Sorry !")
+print("t.me/abdou_zza")
+print("اشترك في القنات اعلاه")
+str(input('enter ID:'))
+str(input("inter número de ataques "))
